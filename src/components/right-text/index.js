@@ -9,7 +9,7 @@ class RightText extends Component {
     render() {
         return (
             <Reboot >
-                <div id="right-text-header" style={{ color: primary, fontFamily:"fantasy" }}>
+                <div id="header" style={{ color: primary, fontFamily:"fantasy" }}>
                     <Typography type="display3" style={{ color: primary }} gutterBottom>
                         JUNE 10, 2018
                     </Typography>
